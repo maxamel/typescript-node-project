@@ -34,7 +34,7 @@ Welcome to the TypeScript Node.js project! This repository provides complete gui
 
 14. **Linting and Formatting Scripts**: Provides environment-specific scripts in the `package.json` for linting and formatting code using ESLint and Prettier.
 
-## Project Setup
+## Project Setup Summary
 
 Follow the steps below to set up the project on your local system:
 
