@@ -4,6 +4,8 @@
 
 Welcome to the TypeScript Node.js project! This repository provides complete guide on setting-up a Node.js project with TypeScript, Express.js, ESLint, Prettier, ts-node, nodemon, and environment-specific package.json scripts for local, development, QA, and production.
 
+HELLO WORLD!
+
 ## Technologies & Tools Used
 
 1. **Node.js**: The project is built using Node.js, allowing users to leverage the benefits of server-side JavaScript.
