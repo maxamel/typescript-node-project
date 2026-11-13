@@ -1,0 +1,9 @@
+plugins {
+    id 'java'
+}
+
+repositories {
+    mavenCentral()
+}
+
+throw new GradleException("Intentional CDXGen failure for metric validation")
